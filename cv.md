@@ -19,23 +19,13 @@ I have an expirience of B2B sales 25+ years. I`m looking for a new job. I am int
 __________________________________________________________________________________________________________________________
 *HTML
 *CSS
-*JavaScript (Basic)
+*Javascript(Basic)
 *Git
 
 
 ##**Code Example**
 __________________________________________________________________________________________________________________________
-```
-const multiplyNumbersFromRange = (start, finish) =>{
-    let i = start;
-    let multi = 1;
-    while (i<=finish) {
-        multi=multi*i;
-        i=i+1;
-    }
-    return multi;
-}
-```
+
 
 
 ##**Experience**
