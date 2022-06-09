@@ -1,4 +1,4 @@
-![photo](https://drive.google.com/file/d/1OB2vV8JqtNShkfziTmm0ERJdw20eTMAE/view?usp=sharing)
+![photo](./photo.jpg)
 **Aliaksandr Rachkouski**
 
 
