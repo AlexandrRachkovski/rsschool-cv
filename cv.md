@@ -1,8 +1,8 @@
 ![photo](https://drive.google.com/file/d/1OB2vV8JqtNShkfziTmm0ERJdw20eTMAE/view?usp=sharing)
-#**Aliaksandr Rachkouski**
+#**Aliaksandr Rachkouski**#
 
 
-##**Contacts**
+##**Contacts**##
 __________________________________________________________________________________________________________________________
 *Location: Minsk, Belarus
 *Phone: +375 33 6037441
@@ -10,12 +10,12 @@ ________________________________________________________________________________
 *GitHub: AlexandrRachkovski
 
 
-##**About me:**
+##**About me:**##
 __________________________________________________________________________________________________________________________
 I have an expirience of B2B sales 25+ years. I`m looking for a new job. I am interested in learning, gaining skills and using them
 
 
-##**Skills**
+##**Skills**##
 __________________________________________________________________________________________________________________________
 *HTML
 *CSS
@@ -23,7 +23,7 @@ ________________________________________________________________________________
 *Git
 
 
-##**Code Example**
+##**Code Example**##
 __________________________________________________________________________________________________________________________
 ```
 const multiplyNumbersFromRange = (start, finish) =>{
@@ -38,7 +38,7 @@ const multiplyNumbersFromRange = (start, finish) =>{
 ```
 
 
-##**Experience**
+##**Experience**##
 __________________________________________________________________________________________________________________________
 In 2022 I have started learning Frontend
 
