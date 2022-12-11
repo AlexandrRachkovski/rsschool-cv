@@ -1,4 +1,4 @@
-
+![photo](./assets/img/photo.jpg)
 **Aliaksandr Rachkouski**
 
 
